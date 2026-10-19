@@ -7,3 +7,6 @@ How to use:
 3. paste the code and save it
 4. open the indicators tab and go to your indicators
 5. add it and start using it on 5 or 15m charts
+
+i also have a dol indicator thats a copy of tradeaxis dol indicator in:
+https://github.com/kyr123151/dol-indicator/tree/main
